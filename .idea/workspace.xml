@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c214758c-3ad4-4f6d-ac3f-66a71f8f7922" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pl7gvywYyQq5CK7aWjSYG19htL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_chepik_stek" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c214758c-3ad4-4f6d-ac3f-66a71f8f7922" name="Default Changelist" comment="" />
+      <created>1615745937940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615745937940</updated>
+      <workItem from="1615745939309" duration="20259000" />
+      <workItem from="1615839468235" duration="3577000" />
+      <workItem from="1616005148802" duration="3066000" />
+      <workItem from="1617626248269" duration="229000" />
+      <workItem from="1634821660114" duration="443000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="598" height="466" key="DebuggerActiveHint" timestamp="1615841712938">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="598" height="466" key="DebuggerActiveHint/0.0.1440.860@0.0.1440.860" timestamp="1615841712938" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1617626470279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/1920.60.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1617626470279" />
+    <state width="1557" height="334" key="GridCell.Tab.0.bottom" timestamp="1616015979760">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1397" height="46" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1615843352720" />
+    <state width="1557" height="334" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1616015979760" />
+    <state width="1397" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1440.860@1600.0.1440.860" timestamp="1615794952546" />
+    <state width="1557" height="334" key="GridCell.Tab.0.center" timestamp="1616015979760">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1397" height="46" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1615843352720" />
+    <state width="1557" height="334" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1616015979760" />
+    <state width="1397" height="276" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1440.860@1600.0.1440.860" timestamp="1615794952546" />
+    <state width="1557" height="334" key="GridCell.Tab.0.left" timestamp="1616015979760">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1397" height="46" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1615843352720" />
+    <state width="1557" height="334" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1616015979760" />
+    <state width="1397" height="276" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1440.860@1600.0.1440.860" timestamp="1615794952546" />
+    <state width="1557" height="334" key="GridCell.Tab.0.right" timestamp="1616015979760">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1397" height="46" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1615843352720" />
+    <state width="1557" height="334" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1616015979760" />
+    <state width="1397" height="276" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1440.860@1600.0.1440.860" timestamp="1615794952546" />
+    <state width="1397" height="46" key="GridCell.Tab.1.bottom" timestamp="1615843352720">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="46" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1615843352720" />
+    <state width="1557" height="87" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1615819579179" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.0.1440.860@1600.0.1440.860" timestamp="1615794953242" />
+    <state width="1397" height="46" key="GridCell.Tab.1.center" timestamp="1615843352720">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="46" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1615843352720" />
+    <state width="1557" height="87" key="GridCell.Tab.1.center/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1615819579179" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1600.860/1600.0.1440.860@1600.0.1440.860" timestamp="1615794953242" />
+    <state width="1397" height="46" key="GridCell.Tab.1.left" timestamp="1615843352720">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="46" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1615843352720" />
+    <state width="1557" height="87" key="GridCell.Tab.1.left/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1615819579179" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1600.860/1600.0.1440.860@1600.0.1440.860" timestamp="1615794953242" />
+    <state width="1397" height="46" key="GridCell.Tab.1.right" timestamp="1615843352720">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="46" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1615843352720" />
+    <state width="1557" height="87" key="GridCell.Tab.1.right/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1615819579179" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1600.860/1600.0.1440.860@1600.0.1440.860" timestamp="1615794953242" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test.py</url>
+          <line>136</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test_chepik_stek$Test.coverage" NAME="Test Coverage Results" MODIFIED="1616014503056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
